@@ -49,7 +49,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
+    "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "com.sjhy.plugin.ui.TemplateSettingForm",
@@ -113,7 +113,7 @@
       <workItem from="1720770881587" duration="3487000" />
       <workItem from="1720774567770" duration="10400000" />
       <workItem from="1721006114066" duration="2890000" />
-      <workItem from="1721029279805" duration="11864000" />
+      <workItem from="1721029279805" duration="26615000" />
     </task>
     <servers />
   </component>
@@ -143,10 +143,14 @@
           <line>261</line>
           <option name="timeStamp" value="48" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/hdl-framework/src/main/java/com/hdl/service/impl/UserDetailsServiceImpl.java</url>
-          <line>29</line>
-          <option name="timeStamp" value="58" />
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/hdl-framework/src/main/java/com/hdl/service/impl/OssUploadService.java</url>
+          <line>95</line>
+          <properties class="com.hdl.service.impl.OssUploadService">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="76" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
